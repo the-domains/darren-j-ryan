@@ -1,13 +1,25 @@
-layout_spectrum: 0.7397388
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.5160155
 color:
   saturation: 0.01967752
-  lightness: 0.9623771
   brandStrength: 0.4740883
+  lightness: 0.9623771
   brandColors:
     - '#FFFFFF'
     - '#E8B588'
     - '#BC8276'
     - '#7FA4A3'
   rhythmicContrast: 0.5846061
-typography_spectrum: 0.5160155
+layout_spectrum: 0.7397388
 name: Darren J. Ryan
