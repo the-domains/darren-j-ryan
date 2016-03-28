@@ -1,3 +1,7 @@
+name: Darren J. Ryan
+favicon: null
+layout_spectrum: 0.7397388
+typography_spectrum: 0.5160155
 collections:
   - index:
       path: /
@@ -10,16 +14,26 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5160155
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.01967752
-  brandStrength: 0.4740883
-  lightness: 0.9623771
   brandColors:
     - '#FFFFFF'
     - '#E8B588'
     - '#BC8276'
     - '#7FA4A3'
+  brandStrength: 0.4375
+  lightness: 0
+  saturation: 0
   rhythmicContrast: 0.5846061
-layout_spectrum: 0.7397388
-name: Darren J. Ryan
+purpose: []
